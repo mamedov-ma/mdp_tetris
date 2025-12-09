@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall -O3 -DNDEBUG CMakeFiles/print_all_states_and_actions.dir/src/print_all_states_and_actions.cpp.o CMakeFiles/print_all_states_and_actions.dir/src/tetris_mdp.cpp.o -o print_all_states_and_actions 
