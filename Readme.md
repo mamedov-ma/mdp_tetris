@@ -28,8 +28,7 @@ This script will:
 If the script is not executable, make it executable first:
 
 ```bash
-chmod +x build.sh
-./build.sh
+chmod +x build.sh && ./build.sh
 ```
 
 ## Running the Programs
