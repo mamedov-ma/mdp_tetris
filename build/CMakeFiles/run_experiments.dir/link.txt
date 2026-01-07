@@ -1,1 +1,0 @@
-/usr/bin/c++  -O3 -Wall -O3 -DNDEBUG CMakeFiles/run_experiments.dir/src/run_experiments.cpp.o CMakeFiles/run_experiments.dir/src/tetris_mdp.cpp.o -o run_experiments 

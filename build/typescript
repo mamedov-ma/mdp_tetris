@@ -1,4 +1,0 @@
-Script started on 2025-12-08 14:19:57+01:00 [COMMAND="print_all_states_and_actions" TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="-1" LINES="-1"]
-bash: line 1: print_all_states_and_actions: command not found
-
-Script done on 2025-12-08 14:19:57+01:00 [COMMAND_EXIT_CODE="127"]
