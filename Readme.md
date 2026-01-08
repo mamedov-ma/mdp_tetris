@@ -53,7 +53,7 @@ This executable:
 
 This executable:
 
-* Enumerates all reachable MDP states
+* Enumerates all reachable states
 * Prints each state, the current piece, and the list of available actions
 * Shows the best action according to the computed optimal value function
 
