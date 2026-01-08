@@ -14,7 +14,7 @@ This project implements a Markov Decision Process (MDP) model of a simplified â€
 From the project root directory, run:
 
 ```bash
-./build.sh
+chmod +x build.sh && ./build.sh
 ```
 
 This script will:
@@ -22,14 +22,6 @@ This script will:
 * Create a `build/` directory (if it does not exist)
 * Compile the project into two executables inside `build/`:
 
-  * `run_experiments`
-  * `print_all_states_and_actions`
-
-If the script is not executable, make it executable first:
-
-```bash
-chmod +x build.sh && ./build.sh
-```
 
 ## Running the Programs
 
@@ -42,7 +34,8 @@ cd build
 ### 1. Run experiments
 
 ```bash
-./run_experiments
+./run_experiments_question1
+./run_experiments_question2
 ```
 
 This executable:
@@ -54,7 +47,8 @@ This executable:
 ### 2. Print all states and actions
 
 ```bash
-./print_all_states_and_actions
+./print_all_states_and_actions_question1
+./print_all_states_and_actions_question2
 ```
 
 This executable:
