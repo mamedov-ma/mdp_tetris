@@ -36,6 +36,7 @@ cd build
 ```bash
 ./run_experiments_question1
 ./run_experiments_question2
+./run_experiments_question3
 ```
 
 This executable:
